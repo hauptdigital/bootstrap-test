@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/hauptdigital/bootstrap-test#readme",
   "dependencies": {
+    "bootstrap": "^4.4.1",
     "htmlhint": "^0.11.0",
     "prettier": "^1.19.1"
   }
